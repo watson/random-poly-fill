@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "A polyfill for crypto.randomFill and crypto.randomFillSync from Node.js core",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "standard": "^12.0.1",
     "tape": "^4.9.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "standard && node test.js"
   },
