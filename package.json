@@ -1,6 +1,6 @@
 {
   "name": "random-poly-fill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A polyfill for crypto.randomFill and crypto.randomFillSync from Node.js core",
   "main": "index.js",
   "dependencies": {},
@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/watson/random-poly-fill#readme",
   "coordinates": [
-    55.6773705,
-    12.5614183
+    55.679872,
+    12.5632642
   ]
 }
